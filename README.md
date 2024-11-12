@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/badari narayana konda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="badari narayana konda" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/k.s.n.b narayana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="k.s.n.b narayana" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/badari_narayana_konda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="badari_narayana_konda" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/Badari_Narayana_K" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Badari_narayana_konda" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
