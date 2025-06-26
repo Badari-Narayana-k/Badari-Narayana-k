@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=badari-narayana-k" alt="badari-narayana-k" /></a> </p>
 
-- 🔭 I’m currently working on **A project based on Facial Authentication.**
+- 🔭 I’m currently working on **Two projects one related to a very own/ specifc domain based AI model and a Spring Boot based web development project.**
 
 - 🌱 I’m currently learning **AI/ML, Computer vision and Neural Networks**
 
